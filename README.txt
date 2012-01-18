@@ -1,1 +1,1 @@
-test local repo
+Test the mirror option
