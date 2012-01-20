@@ -7,3 +7,4 @@ Test cron
 Test cron2
 Test cron3
 
+Test bare again
