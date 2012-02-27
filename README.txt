@@ -35,3 +35,4 @@ test servlet rescubcrbe
 dispatcher
 input.reset
 input.reset2
+param bin
