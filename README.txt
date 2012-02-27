@@ -40,3 +40,4 @@ param bin2
 param encode
 json
 print all json time create
+reader
