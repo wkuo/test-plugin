@@ -38,3 +38,4 @@ input.reset2
 param bin
 param bin2
 param encode
+json
