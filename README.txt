@@ -48,3 +48,4 @@ compare
 fff
 compare5
 print content type and length
+encode
