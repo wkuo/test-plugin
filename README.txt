@@ -50,4 +50,4 @@ compare5
 print content type and length
 encode
 pure servlet
-pure filter 3
+pure filter 4
