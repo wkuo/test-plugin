@@ -47,3 +47,4 @@ service3
 compare	
 fff
 compare5
+print content type and length
